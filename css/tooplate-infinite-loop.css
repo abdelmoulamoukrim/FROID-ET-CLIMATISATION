@@ -264,20 +264,18 @@ blockquote {
 /*fiest*/
 
 
-.firste{
-  background-color: #222;
-  background-image: url(../img/12.jpg); /* Replace 'path/to/imag12.jpg' with the actual path to your image */
-  background-repeat: no-repeat;
-  height: 100vh;
-  min-height: 375px;
-  position: relative;
-}
 
-@media (min-height: 1px) and (min-width: 1920px) {
-#firste {
-  background-size: cover;
-}
-}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
