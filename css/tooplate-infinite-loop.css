@@ -507,7 +507,7 @@ blockquote {
 /* Testimonials */
 #testimonials {
   color: white;
-  background-image: url(../img/infinite-loop-02.jpg);
+  background-image: url(../img/14.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -516,7 +516,7 @@ blockquote {
 
 @media (max-width: 991px) {
   #testimonials {
-    background-image: url(../img/infinite-loop-02-mobile.jpg);
+    background-image: url(../img/14.jpg);
   }
 }
 
@@ -549,7 +549,7 @@ blockquote {
 }
 
 .tm-testimonial-item img {
-  border-radius: 40%;
+  border-radius: 50%;
   margin-bottom: 35px;
 }
 
