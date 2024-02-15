@@ -214,7 +214,7 @@ blockquote {
           align-items: center;
   text-align: center;
   margin: 0 10px;
-  padding: 45px 15px;
+  padding: 45px 10px;
   background-color: #ffffff;
   color: #555089;
   -webkit-transition: all 0.3s;
@@ -507,7 +507,7 @@ blockquote {
 /* Testimonials */
 #testimonials {
   color: white;
-  background-image: url(../img/14.jpg);
+  background-image: url(../img/144.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -516,7 +516,7 @@ blockquote {
 
 @media (max-width: 991px) {
   #testimonials {
-    background-image: url(../img/14.jpg);
+    background-image: url(../img/144.jpg);
   }
 }
 
